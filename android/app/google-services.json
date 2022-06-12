@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201405803504",
+    "firebase_url": "https://phone-authentication-6499c-default-rtdb.firebaseio.com",
+    "project_id": "phone-authentication-6499c",
+    "storage_bucket": "phone-authentication-6499c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201405803504:android:d43158f62579b3fc070b35",
+        "android_client_info": {
+          "package_name": "com.saqibaa.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201405803504-3kelmpis6bilmg7ggrgupuivmcokk9nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB01FD9QfXypPS0ejgoixIoLWpLDKMZv24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201405803504-3kelmpis6bilmg7ggrgupuivmcokk9nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
